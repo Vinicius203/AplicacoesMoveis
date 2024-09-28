@@ -14,7 +14,7 @@
 
     <string name="questao_alemanha">A capital da Alemanha é Munique</string>
     <string name="questao_suez">O Canal de Suez conecta o Oceano Índico com o Mar Vermelho</string>
-    <string name="texto_padrao_mostra_questoes"> Nenhuma questão a apresentar </string>
+    <string name="texto_padrao_mostra_questoes"> Nenhuma resposta a apresentar </string>
     <string name="texto_do_artigo">
         E agora, José? \n
 A festa acabou,\n
